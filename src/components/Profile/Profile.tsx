@@ -20,11 +20,11 @@ const profileData: ProfileData = {
     "I love to learn.",
     "Enzo Dunn :)",
   ],
-  graduatingClass: 2025,
-  majorMinor: "B.A. in Computer Science, Minor in Economics",
-  websiteHref: "https://github.com/wderocco8",
+  graduatingClass: 2027,
+  majorMinor: "B.A. in Economics",
+  websiteHref: "https://www.flicksbyenzo.com/",
   imgSrc: "/images/profile/profile.jpeg",
-  currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
+  currentPosition: "Student"
 };
 
 /**
